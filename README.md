@@ -1,4 +1,4 @@
-# map
+# mapbox
 
 ## Project setup
 ```
